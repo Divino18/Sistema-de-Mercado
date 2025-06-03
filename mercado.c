@@ -222,5 +222,3 @@ int main() {
     
     return 0;
 }
-
-//espero que esteja tudo de acordo com o que foi solicitado professor, grato!
